@@ -1,0 +1,33 @@
+---
+title: "431 Main Page for Fall 2020"
+---
+
+Welcome! PQHS 431 is the first part of a two-semester sequence (PQHS 431-432) taught by Professor Thomas Love in the Department of Population and Quantitative Health Sciences at Case Western Reserve University. Everything that Professor Love will provide to help you with the course will appear on this website.
+
+The class will be held on Tuesdays and Thursdays from 1:00 - 2:15 PM virtually, using the Zoom platform, starting on 2020-08-25. Information on the Zoom meetings will be found on [Canvas](https://canvas.case.edu).
+
+## Everything You Need is Here
+
+The menu bar at the top of the screen includes links to everything you'll need this semester, including
+
+- the (very long - sorry) course [syllabus](https://thomaselove.github.io/431-2020-syllabus/)
+- Dr. Love's course [notes](https://thomaselove.github.io/431-notes/) (the main textbook for the course)
+- the [course calendar](calendar.html), which provides the final word on all deadlines, and also provides links to all materials used in each class session
+- detailed information on all course assignments, including Labs, Minute Papers, Projects and Quizzes.
+    - Remember that all deadlines for these assignments are in the [course calendar](calendar.html).
+- information on [installing R and RStudio](software_install.html), installing [key R packages](r_packages.html), plus downloading [data (and code) you'll need](data_index.html) for the class.
+- links to the [Piazza](https://piazza.com/case/fall2020/pqhs431) discussion forum for this class
+- links to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in your assignments
+- places where you can [get help and contact us](contact.html)
+
+## Pep Talk! 
+
+Learning R can be difficult at first - it's like learning a new lanugage, just like Spanish, French, or Chinese. Hadley Wickham-the chief scientist at RStudio and the author of some amazing R packages you'll be using like `ggplot2` [made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
+
+> It's easy when you start out programming to get really frustrated and think, "Oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again later.
+
+If you're finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, [ask us for help](contact.html), etc.
+
+I promise you can do this.
+
+(Thanks, [Andrew Heiss](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk))

@@ -1,0 +1,25 @@
+---
+title: "Software Installation"
+---
+
+# Installing R and R Studio
+
+The steps you need to complete are:
+
+1. Download and install **the latest version of R** (version **4.0.2 or later**) from http://cran.case.edu/ or, if you prefer, from https://cloud.r-project.org which automatically chooses a fast, nearby mirror for you.
+    - If you have a pre-existing installation of R and/or RStudio, we highly recommend that you reinstall both to get current.
+2. Download and install **RStudio Desktop** (Open Source Edition - the free version **1.3.1056 or later**) at https://www.rstudio.com/products/rstudio/download/#download. 
+    - If you prefer, you can instead install [RStudio's Preview Version](https://www.rstudio.com/products/rstudio/download/preview/) to get the very latest features, but that requires you to update your setup more frequently, and occasionally deal with some additional troubleshooting. 
+    - Dr. Love will stick with the regular open source version in his work for 431.
+3. Install some **R packages** - an R "package" is a collection of functions, data, and documentation that extends the capabilities of R, and is the critical way to get R doing interesting work. 
+    - The most recent list of [R Packages to install][r_packages.html] is available now, along with instructions. As the semester continues, this list will be updated to add new packages.
+4. Download [431 data and code](data_index.html) developed specifically for the course.
+5. Obtain a free **Github User Account** by visiting https://github.com/ and signing up. 
+    - We urge you to select a Github username that identifies you effectively, and that matches your other professional social media usernames. For instance, Dr. Love uses THOMASELOVE on Github and @ThomasELove on Twitter.
+    
+## Need Installation Help?
+
+If you need more help, you might look at [this terrific resource for Installing R and RStudio](https://stat545.com/install.html) from Jenny Bryan and the STAT 545 project. These are the people responsible for the great [Happy Git with R](http://happygitwithr.com/) project, which will also be worth your time when we are using Git and GitHub.
+
+- If you're having trouble with installation before our first class, don't worry too much. The TAs and Dr. Love will be available to help once the class gets going.
+- If you're having installation problems or problems getting started in R, please consider visiting TA office hours or perhaps asking a question on [Piazza](https://piazza.com/case/fall2020/pqhs431/home). We want to hear from you!
