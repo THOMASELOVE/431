@@ -20,6 +20,17 @@ The menu bar at the top of the screen includes links to everything you'll need t
 - links to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in your assignments
 - places where you can [get help and contact us](contact.html)
 
+## The Pre-Class Website
+
+The Pre-Class Website has now served its purpose, and we hope it was helpful to you. As of the start of our first class, it's no longer relevant, and is instead replaced with this page.
+
+## Welcome to 431 Survey
+
+Almost all of you have already completed the [Welcome to 431 Survey](https://bit.ly/431-2020-welcome-survey). Thank you.
+
+- If you haven't, then please do so at https://bit.ly/431-2020-welcome-survey as soon as possible. 
+- Note that you must log into Google via your CWRU account to access the survey, which should take about 15 minutes to complete.
+
 ## Pep Talk! 
 
 Learning R can be difficult at first - it's like learning a new lanugage, just like Spanish, French, or Chinese. Hadley Wickham-the chief scientist at RStudio and the author of some amazing R packages you'll be using like `ggplot2` [made this wise observation](https://r-posts.com/advice-to-young-and-old-programmers-a-conversation-with-hadley-wickham/):
