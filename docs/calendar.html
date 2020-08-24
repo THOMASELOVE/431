@@ -1,0 +1,686 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Fall 2020 Calendar for 431</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script src="site_libs/accessible-code-block-0.0.1/empty-anchor.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">431</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="https://thomaselove.github.io/431-2020-syllabus/">Syllabus</a>
+</li>
+<li>
+  <a href="https://thomaselove.github.io/431-notes/">Course Notes</a>
+</li>
+<li>
+  <a href="calendar.html">Calendar</a>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    Assignments
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md">Labs</a>
+    </li>
+    <li>
+      <a href="https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md">Minute Papers</a>
+    </li>
+    <li>
+      <a href="https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/README.md">Quizzes</a>
+    </li>
+    <li>
+      <a href="https://github.com/THOMASELOVE/431-2020/blob/master/projects/README.md">Projects</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+    R and Data
+     
+    <span class="caret"></span>
+  </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="software_install.html">Installing R</a>
+    </li>
+    <li>
+      <a href="r_packages.html">R Packages List</a>
+    </li>
+    <li>
+      <a href="data_index.html">Data Downloads</a>
+    </li>
+  </ul>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://piazza.com/case/fall2020/pqhs431">Piazza</a>
+</li>
+<li>
+  <a href="https://canvas.case.edu/">Canvas</a>
+</li>
+<li>
+  <a href="contact.html">
+    <span class="fa fa-question-circle fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Fall 2020 Calendar for 431</h1>
+
+</div>
+
+
+<ul>
+<li>All class sessions will be held from <strong>1:00 to 2:15 PM Eastern Time</strong> via Zoom.</li>
+<li>The Zoom link for each class is <a href="https://canvas.case.edu">available on Canvas</a> in the Announcements section, as are details on Teaching Assistant Office Hours.</li>
+<li>All Zoom class session will open 15 minutes before class begins and close 15 minutes after class ends for students to ask questions of Professor Love.</li>
+<li>Links to Class sessions and Assignments will appear here as the materials become available.</li>
+</ul>
+<table>
+<colgroup>
+<col width="12%" />
+<col width="8%" />
+<col width="79%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="right">LINK</th>
+<th align="right">Date</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right"><a href="https://github.com/THOMASELOVE/431-2020/blob/master/classes/class01/README.md">Class 01</a></td>
+<td align="right">Tue 08-25</td>
+<td align="left">Welcome to PQHS / CRSP / MPHP 431!</td>
+</tr>
+<tr class="even">
+<td align="right"><a href="https://github.com/THOMASELOVE/431-2020/blob/master/classes/class02/README.md">Class 02</a></td>
+<td align="right">Thu 08-27</td>
+<td align="left">Start of Part A: Data Visualization, Working with R &amp; RStudio</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 03</td>
+<td align="right">Tue 09-01</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 09-02</td>
+<td align="left"><strong>Minute Paper after Class 03</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 04</td>
+<td align="right">Thu 09-03</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Mon 09-07</td>
+<td align="left"><strong>Lab 1 due</strong> at 9 PM Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 05</td>
+<td align="right">Tue 09-08</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 09-09</td>
+<td align="left"><strong>Minute Paper after Class 05</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 06</td>
+<td align="right">Thu 09-10</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Mon 09-14</td>
+<td align="left"><strong>Lab 2 due</strong> at 9 PM Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 07</td>
+<td align="right">Tue 09-15</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 09-16</td>
+<td align="left"><strong>Minute Paper after Class 07</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 08</td>
+<td align="right">Thu 09-17</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Mon 09-21</td>
+<td align="left"><strong>Lab 3 due</strong> at 9 PM Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 09</td>
+<td align="right">Tue 09-22</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 09-23</td>
+<td align="left"><strong>Minute Paper after Class 09</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 10</td>
+<td align="right">Thu 09-24</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Mon 09-28</td>
+<td align="left"><strong>Lab 4 due</strong> at 9 PM Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 11</td>
+<td align="right">Tue 09-29</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 09-30</td>
+<td align="left"><strong>Minute Paper after Class 11</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 12</td>
+<td align="right">Thu 10-01</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Fri 10-02</td>
+<td align="left"><em>Quiz 1 will be made available</em></td>
+</tr>
+<tr class="odd">
+<td align="right">Class 13</td>
+<td align="right">Tue 10-06</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 10-07</td>
+<td align="left"><strong>Quiz 1 due</strong> at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 14</td>
+<td align="right">Thu 10-08</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">Class 15</td>
+<td align="right">Tue 10-13</td>
+<td align="left">-</td>
+</tr>
+<tr class="odd">
+<td align="right">-</td>
+<td align="right">Wed 10-14</td>
+<td align="left"><strong>Minute Paper after Class 15</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Thu 10-15</td>
+<td align="left"><strong>No 431 Class</strong>. Dr. Love will be at Study Section.</td>
+</tr>
+<tr class="odd">
+<td align="right">-</td>
+<td align="right">Tue 10-20</td>
+<td align="left"><strong>Project A due</strong> at Noon Eastern Time (requires materials through Class 12)</td>
+</tr>
+<tr class="even">
+<td align="right">Class 16</td>
+<td align="right">Tue 10-20</td>
+<td align="left">-</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 17</td>
+<td align="right">Thu 10-22</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Mon 10-26</td>
+<td align="left"><strong>Lab 5 due</strong> at 9 PM Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 18</td>
+<td align="right">Tue 10-27</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 10-28</td>
+<td align="left"><strong>Minute Paper after Class 18</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 19</td>
+<td align="right">Thu 10-29</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Tue 11-03</td>
+<td align="left"><strong>No 431 Class</strong>. US Election Day</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 20</td>
+<td align="right">Thu 11-05</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Mon 11-09</td>
+<td align="left"><strong>Lab 6 due</strong> at 9 PM Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 21</td>
+<td align="right">Tue 11-10</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 11-11</td>
+<td align="left"><strong>Minute Paper after Class 21</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 22</td>
+<td align="right">Thu 11-12</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Mon 11-16</td>
+<td align="left"><strong>Lab 7 due</strong> at 9 PM Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 23</td>
+<td align="right">Tue 11-17</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 11-18</td>
+<td align="left"><strong>Minute Paper after Class 23</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 24</td>
+<td align="right">Thu 11-19</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Tue 11-24</td>
+<td align="left"><strong>CWRU Holiday</strong> (Thanksgiving Week)</td>
+</tr>
+<tr class="odd">
+<td align="right">-</td>
+<td align="right">Thu 11-26</td>
+<td align="left"><strong>CWRU Holiday</strong> (Thanksgiving Week)</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Mon 11-30</td>
+<td align="left"><strong>Lab 8 due</strong> at 9 PM Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 25</td>
+<td align="right">Tue 12-01</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Wed 12-02</td>
+<td align="left"><strong>Minute Paper after Class 25</strong> due at Noon Eastern Time</td>
+</tr>
+<tr class="odd">
+<td align="right">Class 26</td>
+<td align="right">Thu 12-03</td>
+<td align="left">-</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Fri 12-04</td>
+<td align="left"><em>Quiz 2 will be made available</em></td>
+</tr>
+<tr class="odd">
+<td align="right">-</td>
+<td align="right">Tue 12-08</td>
+<td align="left"><strong>Quiz 2 due</strong> at Noon Eastern Time</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Thu 12-10</td>
+<td align="left"><strong>Project B due</strong> at Noon Eastern Time (requires materials through Class 24)</td>
+</tr>
+<tr class="odd">
+<td align="right">-</td>
+<td align="right">Thu 12-10</td>
+<td align="left">All Lab Regrade Requests (if desired) must be submitted by Noon Eastern Time</td>
+</tr>
+</tbody>
+</table>
+<p>Project Presentations will be scheduled later. The end of the University Final Exam period is 2020-12-16.</p>
+
+<p><img alt="431 Footer" style="border-width:10" src="431_footer.png" height="80" width ="800"/></a> 
+</p>
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

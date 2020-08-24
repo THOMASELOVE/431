@@ -1,0 +1,47 @@
+name: "431-main"
+output_dir: "docs"
+type: inverse
+navbar:
+  title: "431"
+  left:
+    - text: Home
+      href: index.html
+    - text: "Syllabus"
+      href: https://thomaselove.github.io/431-2020-syllabus/
+    - text: "Course Notes"
+      href: https://thomaselove.github.io/431-notes/
+    - text: Calendar
+      href: calendar.html
+    - text: Assignments
+      menu: 
+      - text: Labs
+        href: https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md
+      - text: Minute Papers
+        href: https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md
+      - text: Quizzes
+        href: https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/README.md
+      - text: Projects
+        href: https://github.com/THOMASELOVE/431-2020/blob/master/projects/README.md
+    - text: R and Data
+      menu:
+        - text: Installing R
+          href: software_install.html
+        - text: R Packages List
+          href: r_packages.html
+        - text: Data Downloads
+          href: data_index.html
+  right:
+    - text: "Piazza"
+      href: https://piazza.com/case/fall2020/pqhs431
+    - text: "Canvas"
+      href: https://canvas.case.edu/
+    - icon: fa-question-circle fa-lg
+      href: contact.html
+output:
+  html_document:
+    theme: flatly
+    highlight: haddock
+    includes:
+      after_body: footer.html
+    lib_dir: site_libs
+    self_contained: no
