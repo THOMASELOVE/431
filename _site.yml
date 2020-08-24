@@ -1,10 +1,10 @@
 name: "431-main"
 output_dir: "docs"
-type: inverse
 navbar:
   title: "431"
+  type: inverse
   left:
-    - text: Home
+    - icon: fa-home
       href: index.html
     - text: "Syllabus"
       href: https://thomaselove.github.io/431-2020-syllabus/
@@ -39,8 +39,8 @@ navbar:
       href: contact.html
 output:
   html_document:
-    theme: flatly
-    highlight: haddock
+    theme: cerulean
+    highlight: textmate
     includes:
       after_body: footer.html
     lib_dir: site_libs
