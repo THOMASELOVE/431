@@ -37,7 +37,7 @@ Learning R can be difficult at first - it's like learning a new lanugage, just l
 
 > It's easy when you start out programming to get really frustrated and think, "Oh it's me, I'm really stupid," or, "I'm not made out to program." But, that is absolutely not the case. Everyone gets frustrated. I still get frustrated occasionally when writing R code. It's just a natural part of programming. So, it happens to everyone and gets less and less over time. Don't blame yourself. Just take a break, do something fun, and then come back and try again later.
 
-If you're finding yourself taking way too long hitting your head against a wall and not understanding, take a break, talk to classmates, [ask us for help](contact.html), etc.
+If you're finding yourself taking way too long (by which I mean 15 minutes) hitting your head against a wall and not understanding, take a break, talk to classmates, [ask us for help](contact.html), etc. If you've spent 15 minutes working on something and are stuck, don't keep working on it. ASK FOR HELP.
 
 I promise you can do this.
 

@@ -2,7 +2,7 @@
 title: "Contact Information"
 ---
 
-To get help in this course, you have three main options:
+If you've spent 15 minutes working on something and are stuck, don't keep working on it. ASK FOR HELP. To get help in this course, you have three main options:
 
 1. Use our [Piazza](https://piazza.com/case/fall2020/pqhs431) discussion board to ask (and answer) questions about the course. This is available 24 hours a day, 7 days a week.
 
