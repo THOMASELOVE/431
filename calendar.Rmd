@@ -1,69 +1,112 @@
 ---
 title: "Fall 2020 Calendar for 431"
+output: 
+    html_document:
+        toc: true
+        toc_float: true
 ---
 
-- All class sessions will be held from **1:00 to 2:15 PM Eastern Time** via Zoom. 
+## General Comments {-}
+
+- All class sessions will be held from **1:00 to 2:15 PM** via Zoom. 
+- All times listed anywhere on this page refer to **US Eastern Time**.
 - The Zoom link for each class is [available on Canvas](https://canvas.case.edu) in the Announcements section, as are details on Teaching Assistant Office Hours.
 - All Zoom class session will open 15 minutes before class begins and close 15 minutes after class ends for students to ask questions of Professor Love.
 - Links to Class sessions and Assignments will appear here as the materials become available.
 
+## August 2020
+
 LINK | Date | Description
---------: | -----: | :---------------------------------------------------------
+--------: | --------: | :-------------------------------------------------------
 [Class 01](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class01/README.md) | Tue 08-25 | Welcome to PQHS / CRSP / MPHP 431!
 [Class 02](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class02/README.md) | Thu 08-27 | Start of Part A: Data Visualization, Working with R & RStudio
-Class 03 | Tue 09-01 | -
-\-  | Wed 09-02 | **Minute Paper after Class 03** due at Noon Eastern Time
-Class 04 | Thu 09-03 | -
-\- | Mon 09-07 | **Lab 1 due** at 9 PM Eastern Time
-Class 05 | Tue 09-08 | -
-\-  | Wed 09-09 | **Minute Paper after Class 05** due at Noon Eastern Time
-Class 06 | Thu 09-10 | -
-\- | Mon 09-14 | **Lab 2 due** at 9 PM Eastern Time
-Class 07 | Tue 09-15 | -
-\-  | Wed 09-16 | **Minute Paper after Class 07** due at Noon Eastern Time
-Class 08 | Thu 09-17 | -
-\- | Mon 09-21 | **Lab 3 due** at 9 PM Eastern Time
-Class 09 | Tue 09-22 | -
-\-  | Wed 09-23 | **Minute Paper after Class 09** due at Noon Eastern Time
-Class 10 | Thu 09-24 | -
-\- | Mon 09-28 | **Lab 4 due** at 9 PM Eastern Time
-Class 11 | Tue 09-29 | -
-\-  | Wed 09-30 | **Minute Paper after Class 11** due at Noon Eastern Time
-Class 12 | Thu 10-01 | -
+\- | Mon 08-31 | *First Day of TA Office Hours*
+
+## September 2020
+
+LINK | Date | Description
+--------: | --------: | :-------------------------------------------------------
+Class 03 | Tue 09-01 | to be announced
+\-  | Wed 09-02 | **Minute Paper after Class 03** due at Noon
+Class 04 | Thu 09-03 | to be announced
+\- | Mon 09-07 | **Lab 1 due** at 9 PM
+Class 05 | Tue 09-08 | to be announced
+\-  | Wed 09-09 | **Minute Paper after Class 05** due at Noon
+Class 06 | Thu 09-10 | to be announced
+\- | Mon 09-14 | **Lab 2 due** at 9 PM 
+Class 07 | Tue 09-15 | to be announced
+\-  | Wed 09-16 | **Minute Paper after Class 07** due at Noon 
+Class 08 | Thu 09-17 | to be announced
+\- | Mon 09-21 | **Lab 3 due** at 9 PM 
+Class 09 | Tue 09-22 | to be announced
+\-  | Wed 09-23 | **Minute Paper after Class 09** due at Noon 
+Class 10 | Thu 09-24 | to be announced
+\- | Mon 09-28 | **Lab 4 due** at 9 PM 
+Class 11 | Tue 09-29 | to be announced
+\-  | Wed 09-30 | **Minute Paper after Class 11** due at Noon 
+
+## October 2020
+
+LINK | Date | Description
+--------: | --------: | :-------------------------------------------------------
+Class 12 | Thu 10-01 | to be announced
 \- | Fri 10-02 | *Quiz 1 will be made available*
-Class 13 | Tue 10-06 | -
-\- | Wed 10-07 | **Quiz 1 due** at Noon Eastern Time
-Class 14 | Thu 10-08 | -
-Class 15 | Tue 10-13 | -
-\-  | Wed 10-14 | **Minute Paper after Class 15** due at Noon Eastern Time
+Class 13 | Tue 10-06 | to be announced
+\- | Wed 10-07 | **Quiz 1 due** at Noon (material from Classes 01-12)
+Class 14 | Thu 10-08 | to be announced
+Class 15 | Tue 10-13 | to be announced
+\-  | Wed 10-14 | **Minute Paper after Class 15** due at Noon 
 \- | Thu 10-15 | **No 431 Class**. Dr. Love will be at Study Section.
-\- | Tue 10-20 | **Project A due** at Noon Eastern Time (requires materials through Class 12)
-Class 16 | Tue 10-20 | -
-Class 17 | Thu 10-22 | -
-\- | Mon 10-26 | **Lab 5 due** at 9 PM Eastern Time
-Class 18 | Tue 10-27 | -
-\-  | Wed 10-28 | **Minute Paper after Class 18** due at Noon Eastern Time
-Class 19 | Thu 10-29 | -
-\-  | Tue 11-03 | **No 431 Class**. US Election Day
-Class 20 | Thu 11-05 | -
-\- | Mon 11-09 | **Lab 6 due** at 9 PM Eastern Time
-Class 21 | Tue 11-10 | -
-\-  | Wed 11-11 | **Minute Paper after Class 21** due at Noon Eastern Time
-Class 22 | Thu 11-12 | -
-\- | Mon 11-16 | **Lab 7 due** at 9 PM Eastern Time
-Class 23 | Tue 11-17 | -
-\-  | Wed 11-18 | **Minute Paper after Class 23** due at Noon Eastern Time
-Class 24 | Thu 11-19 | -
+\- | Tue 10-20 | **Project A due** at Noon (uses Classes 01-12)
+Class 16 | Tue 10-20 | to be announced
+Class 17 | Thu 10-22 | to be announced
+\- | Mon 10-26 | **Lab 5 due** at 9 PM 
+Class 18 | Tue 10-27 | to be announced
+\-  | Wed 10-28 | **Minute Paper after Class 18** due at Noon 
+Class 19 | Thu 10-29 | to be announced
+
+## November 2020
+
+LINK | Date | Description
+--------: | -----: | :---------------------------------------------------------
+\-  | Tue 11-03 | **No 431 Class AND No TA Office Hours**. US Election Day
+\- | Wed 11-04 | *TA office hours resume*
+Class 20 | Thu 11-05 | to be announced
+\- | Mon 11-09 | **Lab 6 due** at 9 PM 
+Class 21 | Tue 11-10 | to be announced
+\-  | Wed 11-11 | **Minute Paper after Class 21** due at Noon 
+Class 22 | Thu 11-12 | to be announced
+\- | Mon 11-16 | **Lab 7 due** at 9 PM 
+Class 23 | Tue 11-17 | to be announced
+\-  | Wed 11-18 | **Minute Paper after Class 23** due at Noon 
+Class 24 | Thu 11-19 | to be announced
+\- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
 \- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
 \- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
-\- | Mon 11-30 | **Lab 8 due** at 9 PM Eastern Time
-Class 25 | Tue 12-01 | -
-\-  | Wed 12-02 | **Minute Paper after Class 25** due at Noon Eastern Time
-Class 26 | Thu 12-03 | -
-\- | Fri 12-04 | *Quiz 2 will be made available*
-\- | Tue 12-08 | **Quiz 2 due** at Noon Eastern Time
-\- | Thu 12-10 | **Project B due** at Noon Eastern Time (requires materials through Class 24)
-\- | Thu 12-10 | All Lab Regrade Requests (if desired) must be submitted by Noon Eastern Time
+\- | Sat 11-28 | *TA office hours begin again*
+\- | Mon 11-30 | **Lab 8 due** at 9 PM 
 
-Project Presentations will be scheduled later. The end of the University Final Exam period is 2020-12-16.
+## December 2020
+
+LINK | Date | Description
+--------: | -----: | :---------------------------------------------------------
+Class 25 | Tue 12-01 | to be announced
+\-  | Wed 12-02 | **Minute Paper after Class 25** due at Noon 
+Class 26 | Thu 12-03 | to be announced
+\- | Fri 12-04 | *Quiz 2 will be made available*
+\- | Mon 12-07 | *Final Day of TA office hours* for the semester
+\- | Tue 12-08 | **Quiz 2 due** at Noon (material from Classes 01-24)
+\- | Thu 12-10 | **Project B due** at Noon (uses Classes 01-24)
+\- | Thu 12-10 | Lab Regrade Requests (if desired) due at Noon
+
+## End of Semester
+
+- Project Presentations will be scheduled later in the semester. 
+- The end of the University Final Exam period is 2020-12-16.
+
+## TA Office Hours
+
+TA office hours begin on 2020-08-31. They will be held every day until 2020-12-07 with the exceptions of 2020-11-03 (Election Day) and the Thanksgiving Break (2020-11-21 through 2020-11-27).
+
+The weekly schedule for TA office hours (with Zoom information) is posted in the [Announcements section on Canvas](https://canvas.case.edu).
 

@@ -42,3 +42,5 @@ If you're finding yourself taking way too long hitting your head against a wall 
 I promise you can do this.
 
 (Thanks, [Andrew Heiss](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk))
+
+#### This site last updated `r Sys.time()`

@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -250,6 +253,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -257,6 +323,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -336,10 +412,7 @@ $(document).ready(function () {
   <a href="https://canvas.case.edu/">Canvas</a>
 </li>
 <li>
-  <a href="contact.html">
-    <span class="fa fa-question-circle fa-lg"></span>
-     
-  </a>
+  <a href="contact.html">Contact Us</a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -355,17 +428,23 @@ $(document).ready(function () {
 </div>
 
 
+<div id="general-comments" class="section level2 unnumbered">
+<h2>General Comments</h2>
 <ul>
-<li>All class sessions will be held from <strong>1:00 to 2:15 PM Eastern Time</strong> via Zoom.</li>
+<li>All class sessions will be held from <strong>1:00 to 2:15 PM</strong> via Zoom.</li>
+<li>All times listed anywhere on this page refer to <strong>US Eastern Time</strong>.</li>
 <li>The Zoom link for each class is <a href="https://canvas.case.edu">available on Canvas</a> in the Announcements section, as are details on Teaching Assistant Office Hours.</li>
 <li>All Zoom class session will open 15 minutes before class begins and close 15 minutes after class ends for students to ask questions of Professor Love.</li>
 <li>Links to Class sessions and Assignments will appear here as the materials become available.</li>
 </ul>
+</div>
+<div id="august-2020" class="section level2">
+<h2>August 2020</h2>
 <table>
 <colgroup>
 <col width="12%" />
-<col width="8%" />
-<col width="79%" />
+<col width="12%" />
+<col width="75%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -386,99 +465,132 @@ $(document).ready(function () {
 <td align="left">Start of Part A: Data Visualization, Working with R &amp; RStudio</td>
 </tr>
 <tr class="odd">
+<td align="right">-</td>
+<td align="right">Mon 08-31</td>
+<td align="left"><em>First Day of TA Office Hours</em></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="september-2020" class="section level2">
+<h2>September 2020</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="right">LINK</th>
+<th align="right">Date</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
 <td align="right">Class 03</td>
 <td align="right">Tue 09-01</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 09-02</td>
-<td align="left"><strong>Minute Paper after Class 03</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 03</strong> due at Noon</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 04</td>
 <td align="right">Thu 09-03</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Mon 09-07</td>
-<td align="left"><strong>Lab 1 due</strong> at 9 PM Eastern Time</td>
+<td align="left"><strong>Lab 1 due</strong> at 9 PM</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 05</td>
 <td align="right">Tue 09-08</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 09-09</td>
-<td align="left"><strong>Minute Paper after Class 05</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 05</strong> due at Noon</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 06</td>
 <td align="right">Thu 09-10</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Mon 09-14</td>
-<td align="left"><strong>Lab 2 due</strong> at 9 PM Eastern Time</td>
+<td align="left"><strong>Lab 2 due</strong> at 9 PM</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 07</td>
 <td align="right">Tue 09-15</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 09-16</td>
-<td align="left"><strong>Minute Paper after Class 07</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 07</strong> due at Noon</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 08</td>
 <td align="right">Thu 09-17</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Mon 09-21</td>
-<td align="left"><strong>Lab 3 due</strong> at 9 PM Eastern Time</td>
+<td align="left"><strong>Lab 3 due</strong> at 9 PM</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 09</td>
 <td align="right">Tue 09-22</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 09-23</td>
-<td align="left"><strong>Minute Paper after Class 09</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 09</strong> due at Noon</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 10</td>
 <td align="right">Thu 09-24</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Mon 09-28</td>
-<td align="left"><strong>Lab 4 due</strong> at 9 PM Eastern Time</td>
+<td align="left"><strong>Lab 4 due</strong> at 9 PM</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 11</td>
 <td align="right">Tue 09-29</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 09-30</td>
-<td align="left"><strong>Minute Paper after Class 11</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 11</strong> due at Noon</td>
 </tr>
+</tbody>
+</table>
+</div>
+<div id="october-2020" class="section level2">
+<h2>October 2020</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="right">LINK</th>
+<th align="right">Date</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td align="right">Class 12</td>
 <td align="right">Thu 10-01</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
@@ -488,27 +600,27 @@ $(document).ready(function () {
 <tr class="odd">
 <td align="right">Class 13</td>
 <td align="right">Tue 10-06</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 10-07</td>
-<td align="left"><strong>Quiz 1 due</strong> at Noon Eastern Time</td>
+<td align="left"><strong>Quiz 1 due</strong> at Noon (material from Classes 01-12)</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 14</td>
 <td align="right">Thu 10-08</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">Class 15</td>
 <td align="right">Tue 10-13</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="odd">
 <td align="right">-</td>
 <td align="right">Wed 10-14</td>
-<td align="left"><strong>Minute Paper after Class 15</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 15</strong> due at Noon</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
@@ -518,117 +630,160 @@ $(document).ready(function () {
 <tr class="odd">
 <td align="right">-</td>
 <td align="right">Tue 10-20</td>
-<td align="left"><strong>Project A due</strong> at Noon Eastern Time (requires materials through Class 12)</td>
+<td align="left"><strong>Project A due</strong> at Noon (uses Classes 01-12)</td>
 </tr>
 <tr class="even">
 <td align="right">Class 16</td>
 <td align="right">Tue 10-20</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 17</td>
 <td align="right">Thu 10-22</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Mon 10-26</td>
-<td align="left"><strong>Lab 5 due</strong> at 9 PM Eastern Time</td>
+<td align="left"><strong>Lab 5 due</strong> at 9 PM</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 18</td>
 <td align="right">Tue 10-27</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 10-28</td>
-<td align="left"><strong>Minute Paper after Class 18</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 18</strong> due at Noon</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 19</td>
 <td align="right">Thu 10-29</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="november-2020" class="section level2">
+<h2>November 2020</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="right">LINK</th>
+<th align="right">Date</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="right">-</td>
+<td align="right">Tue 11-03</td>
+<td align="left"><strong>No 431 Class AND No TA Office Hours</strong>. US Election Day</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
-<td align="right">Tue 11-03</td>
-<td align="left"><strong>No 431 Class</strong>. US Election Day</td>
+<td align="right">Wed 11-04</td>
+<td align="left"><em>TA office hours resume</em></td>
 </tr>
 <tr class="odd">
 <td align="right">Class 20</td>
 <td align="right">Thu 11-05</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Mon 11-09</td>
-<td align="left"><strong>Lab 6 due</strong> at 9 PM Eastern Time</td>
+<td align="left"><strong>Lab 6 due</strong> at 9 PM</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 21</td>
 <td align="right">Tue 11-10</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 11-11</td>
-<td align="left"><strong>Minute Paper after Class 21</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 21</strong> due at Noon</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 22</td>
 <td align="right">Thu 11-12</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Mon 11-16</td>
-<td align="left"><strong>Lab 7 due</strong> at 9 PM Eastern Time</td>
+<td align="left"><strong>Lab 7 due</strong> at 9 PM</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 23</td>
 <td align="right">Tue 11-17</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 11-18</td>
-<td align="left"><strong>Minute Paper after Class 23</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 23</strong> due at Noon</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 24</td>
 <td align="right">Thu 11-19</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
+<td align="right">-</td>
+<td align="right">Fri 11-20</td>
+<td align="left"><em>Last day of TA office hours until 2020-11-28</em></td>
+</tr>
+<tr class="odd">
 <td align="right">-</td>
 <td align="right">Tue 11-24</td>
 <td align="left"><strong>CWRU Holiday</strong> (Thanksgiving Week)</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="right">-</td>
 <td align="right">Thu 11-26</td>
 <td align="left"><strong>CWRU Holiday</strong> (Thanksgiving Week)</td>
 </tr>
+<tr class="odd">
+<td align="right">-</td>
+<td align="right">Sat 11-28</td>
+<td align="left"><em>TA office hours begin again</em></td>
+</tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Mon 11-30</td>
-<td align="left"><strong>Lab 8 due</strong> at 9 PM Eastern Time</td>
+<td align="left"><strong>Lab 8 due</strong> at 9 PM</td>
 </tr>
+</tbody>
+</table>
+</div>
+<div id="december-2020" class="section level2">
+<h2>December 2020</h2>
+<table>
+<thead>
+<tr class="header">
+<th align="right">LINK</th>
+<th align="right">Date</th>
+<th align="left">Description</th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td align="right">Class 25</td>
 <td align="right">Tue 12-01</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
 <td align="right">Wed 12-02</td>
-<td align="left"><strong>Minute Paper after Class 25</strong> due at Noon Eastern Time</td>
+<td align="left"><strong>Minute Paper after Class 25</strong> due at Noon</td>
 </tr>
 <tr class="odd">
 <td align="right">Class 26</td>
 <td align="right">Thu 12-03</td>
-<td align="left">-</td>
+<td align="left">to be announced</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
@@ -637,27 +792,46 @@ $(document).ready(function () {
 </tr>
 <tr class="odd">
 <td align="right">-</td>
-<td align="right">Tue 12-08</td>
-<td align="left"><strong>Quiz 2 due</strong> at Noon Eastern Time</td>
+<td align="right">Mon 12-07</td>
+<td align="left"><em>Final Day of TA office hours</em> for the semester</td>
 </tr>
 <tr class="even">
 <td align="right">-</td>
-<td align="right">Thu 12-10</td>
-<td align="left"><strong>Project B due</strong> at Noon Eastern Time (requires materials through Class 24)</td>
+<td align="right">Tue 12-08</td>
+<td align="left"><strong>Quiz 2 due</strong> at Noon (material from Classes 01-24)</td>
 </tr>
 <tr class="odd">
 <td align="right">-</td>
 <td align="right">Thu 12-10</td>
-<td align="left">All Lab Regrade Requests (if desired) must be submitted by Noon Eastern Time</td>
+<td align="left"><strong>Project B due</strong> at Noon (uses Classes 01-24)</td>
+</tr>
+<tr class="even">
+<td align="right">-</td>
+<td align="right">Thu 12-10</td>
+<td align="left">Lab Regrade Requests (if desired) due at Noon</td>
 </tr>
 </tbody>
 </table>
-<p>Project Presentations will be scheduled later. The end of the University Final Exam period is 2020-12-16.</p>
+</div>
+<div id="end-of-semester" class="section level2">
+<h2>End of Semester</h2>
+<ul>
+<li>Project Presentations will be scheduled later in the semester.</li>
+<li>The end of the University Final Exam period is 2020-12-16.</li>
+</ul>
+</div>
+<div id="ta-office-hours" class="section level2">
+<h2>TA Office Hours</h2>
+<p>TA office hours begin on 2020-08-31. They will be held every day until 2020-12-07 with the exceptions of 2020-11-03 (Election Day) and the Thanksgiving Break (2020-11-21 through 2020-11-27).</p>
+<p>The weekly schedule for TA office hours (with Zoom information) is posted in the <a href="https://canvas.case.edu">Announcements section on Canvas</a>.</p>
+</div>
 
-<p><img alt="431 Footer" style="border-width:10" src="431_footer.png" height="80" width ="800"/></a> 
+<p><img alt="431 Footer" style="border-width:10" src="431_foot2.PNG" height="200" width ="800"/></a> 
 </p>
 
 
+</div>
+</div>
 
 </div>
 
@@ -690,6 +864,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

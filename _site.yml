@@ -35,7 +35,7 @@ navbar:
       href: https://piazza.com/case/fall2020/pqhs431
     - text: "Canvas"
       href: https://canvas.case.edu/
-    - icon: fa-question-circle fa-lg
+    - text: "Contact Us"
       href: contact.html
 output:
   html_document:
