@@ -2,5 +2,11 @@
 title: "Data Downloads for 431"
 ---
 
-Details to come.
+To download data and code for 431, 
+
+1. Visit the repository at https://github.com/THOMASELOVE/431-data.
+
+2. To obtain all of the data and code in this repository in a single zip file, click on the green button reading Clone or download, and click on Download ZIP.
+
+3. Or, to download a single file, click on the file you want to download to view its contents, and then in the top right, right click (on Windows, on a Mac, use Control-Click) on the Raw button, and then save the plain text file that results to your computer.
 
