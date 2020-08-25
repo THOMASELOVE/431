@@ -32,8 +32,8 @@ In addition, we also **strongly** encourage you to read [R for Data Science](htt
 
 LINK | Date | Description
 --------: | --------: | :-------------------------------------------------------
-[Class 01](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class01/README.md) | Tue 08-25 | Welcome to PQHS / CRSP / MPHP 431!
-[Class 02](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class02/README.md) | Thu 08-27 | Start of Part A: Data Visualization, Working with R & RStudio
+[Class 01](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class01) | Tue 08-25 | Welcome to PQHS / CRSP / MPHP 431!
+[Class 02](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class02) | Thu 08-27 | Start of Part A: Data Visualization, Working with R & RStudio
 \- | Fri 08-28 | Read [the Syllabus](https://thomaselove.github.io/431-2020-syllabus/) and *Leek* (intro and sections 1-3)
 \- | Mon 08-31 | *First Day of TA Office Hours*
 
