@@ -30,6 +30,8 @@ navbar:
           href: r_packages.html
         - text: Data Downloads
           href: data_index.html
+        - text: R Tutorials
+          href: https://github.com/THOMASELOVE/431-2020/blob/master/software/README.md
   right:
     - text: "Piazza"
       href: https://piazza.com/case/fall2020/pqhs431

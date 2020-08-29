@@ -20,16 +20,10 @@ The menu bar at the top of the screen includes links to everything you'll need t
 - links to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in your assignments
 - places where you can [get help and contact us](contact.html)
 
-## The Pre-Class Website
 
-The Pre-Class Website has now served its purpose, and we hope it was helpful to you. As of the start of our first class, it's no longer relevant, and is instead replaced with this page.
+## NEW! Resources for Learning R
 
-## Welcome to 431 Survey
-
-Almost all of you have already completed the [Welcome to 431 Survey](https://bit.ly/431-2020-welcome-survey). Thank you.
-
-- If you haven't, then please do so at https://bit.ly/431-2020-welcome-survey as soon as possible. 
-- Note that you must log into Google via your CWRU account to access the survey, which should take about 15 minutes to complete.
+Once you've installed R, RStudio and some R packages, please visit the [R Tutorials](https://github.com/THOMASELOVE/431-2020/blob/master/software/README.md) page for some useful suggestions about how to use these tools.
 
 ## Pep Talk! 
 
@@ -42,5 +36,9 @@ If you're finding yourself taking way too long (by which I mean 15 minutes) hitt
 I promise you can do this.
 
 (Thanks, [Andrew Heiss](https://evalf19.classes.andrewheiss.com/syllabus/#pep-talk))
+
+## The Pre-Class Website
+
+The Pre-Class Website has now served its purpose, and we hope it was helpful to you. As of the start of our first class, it's no longer relevant, and is instead replaced with this page.
 
 #### This site last updated `r Sys.time()`
