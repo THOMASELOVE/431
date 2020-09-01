@@ -42,18 +42,18 @@ LINK | Date | Description
 LINK | Date | Description
 --------: | --------: | :-------------------------------------------------------
 [Class 03](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class03) | Tue 09-01 | Using R, RStudio and R Markdown: Getting Started
-\-  | Wed 09-02 | **Minute Paper after Class 03** due at Noon
+\-  | Wed 09-02 | **[Minute Paper after Class 03](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon
 [Class 04](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class04) | Thu 09-03 | Using R, R Markdown and R Projects More Effectively
 \-  | Fri 09-04 | *Spiegelhalter* Introduction, *Leek* sections 4-5
 \- | Sat 09-05 | By now, R should be installed and running for you well
-\- | Mon 09-07 | **Lab 1 due** at 9 PM
+\- | Mon 09-07 | **[Lab 01 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM
 Class 05 | Tue 09-08 | Topics to be announced
-\-  | Wed 09-09 | **Minute Paper after Class 05** due at Noon
+\-  | Wed 09-09 | **[Minute Paper after Class 05](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon
 Class 06 | Thu 09-10 | Topics to be announced
 \-  | Fri 09-11 | *Spiegelhalter* Chapters 1-3, *Leek* sections 9-10
-\- | Mon 09-14 | **Lab 2 due** at 9 PM 
+\- | Mon 09-14 | **[Lab 02 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 Class 07 | Tue 09-15 | Topics to be announced
-\-  | Wed 09-16 | **Minute Paper after Class 07** due at Noon 
+\-  | Wed 09-16 | **[Minute Paper after Class 07](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 08 | Thu 09-17 | Topics to be announced
 \-  | Fri 09-18 | *Spiegelhalter* Chapters 4 and 7, *Leek* sections 11-12
 \- | Mon 09-21 | **Lab 3 due** at 9 PM 
