@@ -47,9 +47,9 @@ LINK | Date | Description
 \-  | Fri 09-04 | *Spiegelhalter* Introduction, *Leek* sections 4-5
 \- | Sat 09-05 | By now, R should be installed and running for you well
 \- | Mon 09-07 | **[Lab 01 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM
-[Class 05](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class05) | Tue 09-08 | Topics to be announced
+[Class 05](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class05) | Tue 09-08 | More Complex Visualizations and Tables
 \-  | Wed 09-09 | **[Minute Paper after Class 05](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon
-[Class 06](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class06)  | Thu 09-10 | Topics to be announced
+[Class 06](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class06)  | Thu 09-10 | Scatterplots and Linear Regression Models
 \-  | Fri 09-11 | *Spiegelhalter* Chapters 1-3, *Leek* sections 9-10
 \- | Mon 09-14 | **[Lab 02 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 Class 07 | Tue 09-15 | Topics to be announced
