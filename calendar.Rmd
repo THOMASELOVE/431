@@ -56,14 +56,14 @@ Class 07 | Tue 09-15 | Topics to be announced
 \-  | Wed 09-16 | **[Minute Paper after Class 07](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 08 | Thu 09-17 | Topics to be announced
 \-  | Fri 09-18 | *Spiegelhalter* Chapters 4 and 7, *Leek* sections 11-12
-\- | Mon 09-21 | **Lab 3 due** at 9 PM 
+\- | Mon 09-21 | **[Lab 3 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 Class 09 | Tue 09-22 | Topics to be announced
-\-  | Wed 09-23 | **Minute Paper after Class 09** due at Noon 
+\-  | Wed 09-23 | **[Minute Paper after Class 09](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 10 | Thu 09-24 | Topics to be announced
 \-  | Fri 09-25 | *Spiegelhalter* Chapters 8-9, *Leek* sections 13-14
-\- | Mon 09-28 | **Lab 4 due** at 9 PM 
+\- | Mon 09-28 | **[Lab 4 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 Class 11 | Tue 09-29 | Topics to be announced
-\-  | Wed 09-30 | **Minute Paper after Class 11** due at Noon 
+\-  | Wed 09-30 | **[Minute Paper after Class 11](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 
 ## October 2020
 
@@ -76,15 +76,15 @@ Class 13 | Tue 10-06 | Topics to be announced
 Class 14 | Thu 10-08 | Topics to be announced
 \- | Fri 10-09 | *Spiegelhalter* Chapters 5-6
 Class 15 | Tue 10-13 | Topics to be announced
-\-  | Wed 10-14 | **Minute Paper after Class 15** due at Noon 
+\-  | Wed 10-14 | **[Minute Paper after Class 15](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 \- | Thu 10-15 | **No 431 Class**. Dr. Love will be at Study Section.
 \- | Tue 10-20 | **Project A due** at Noon (uses Classes 01-12)
 Class 16 | Tue 10-20 | Topics to be announced
 Class 17 | Thu 10-22 | Topics to be announced
 \- | Fri 10-23 | *Spiegelhalter* Chapter 10 
-\- | Mon 10-26 | **Lab 5 due** at 9 PM 
+\- | Mon 10-26 | **[Lab 5 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 Class 18 | Tue 10-27 | Topics to be announced
-\-  | Wed 10-28 | **Minute Paper after Class 18** due at Noon 
+\-  | Wed 10-28 | **[Minute Paper after Class 18](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 19 | Thu 10-29 | Topics to be announced
 \- | Fri 10-30 | By now, you should have finished *Leek*
 
@@ -96,28 +96,28 @@ LINK | Date | Description
 \- | Wed 11-04 | *TA office hours resume*
 Class 20 | Thu 11-05 | Topics to be announced
 \- | Fri 11-08 | *Spiegelhalter* Chapter 11
-\- | Mon 11-09 | **Lab 6 due** at 9 PM 
+\- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 Class 21 | Tue 11-10 | Topics to be announced
-\-  | Wed 11-11 | **Minute Paper after Class 21** due at Noon 
+\-  | Wed 11-11 | **[Minute Paper after Class 21](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 22 | Thu 11-12 | Topics to be announced
 \- | Fri 11-15 | *Spiegelhalter* Chapter 12
-\- | Mon 11-16 | **Lab 7 due** at 9 PM 
+\- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 Class 23 | Tue 11-17 | Topics to be announced
-\-  | Wed 11-18 | **Minute Paper after Class 23** due at Noon 
+\-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 24 | Thu 11-19 | Topics to be announced
 \- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
 \- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
 \- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
 \- | Sat 11-28 | *TA office hours begin again*
 \- | Sun 11-29 | *Spiegelhalter* Chapters 13-14
-\- | Mon 11-30 | **Lab 8 due** at 9 PM 
+\- | Mon 11-30 | **[Lab 8 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 
 ## December 2020
 
 LINK | Date | Description
 --------: | -----: | :---------------------------------------------------------
 Class 25 | Tue 12-01 | Topics to be announced
-\-  | Wed 12-02 | **Minute Paper after Class 25** due at Noon 
+\-  | Wed 12-02 | **[Minute Paper after Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 26 | Thu 12-03 | Topics to be announced
 \- | Fri 12-04 | *Quiz 2 will be made available*
 \- | Mon 12-07 | *Final Day of TA office hours* for the semester

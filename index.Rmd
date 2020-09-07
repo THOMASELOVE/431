@@ -20,8 +20,7 @@ The menu bar at the top of the screen includes links to everything you'll need t
 - links to the [Canvas](https://canvas.case.edu/) system (log-in required) we use to communicate information about Zoom sessions, and for turning in your assignments
 - places where you can [get help and contact us](contact.html)
 
-
-## NEW! Resources for Learning R
+## Resources for Learning R
 
 Once you've installed R, RStudio and some R packages, please visit the [R Tutorials](https://github.com/THOMASELOVE/431-2020/blob/master/software/README.md) page for some useful suggestions about how to use these tools.
 
