@@ -57,19 +57,19 @@ LINK | Date | Description
 [Class 08](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class08) | Thu 09-17 | Normality, Scatterplots, Correlation, Linear Regression
 \-  | Fri 09-18 | *Spiegelhalter* Chapters 4 and 7, *Leek* sections 11-12
 \- | Mon 09-21 | **[Lab 3 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 09 | Tue 09-22 | Scatterplots and Linear Regression Models
+Class 09 | Tue 09-22 | Linear Regression Models, Working with Scatterplots and Factors
 \-  | Wed 09-23 | **[Minute Paper after Class 09](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 10 | Thu 09-24 | Topics to be announced
+Class 10 | Thu 09-24 | Linear Regression Models, Prediction and Inferences
 \-  | Fri 09-25 | *Spiegelhalter* Chapters 8-9, *Leek* sections 13-14
 \- | Mon 09-28 | **[Lab 4 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 11 | Tue 09-29 | Topics to be announced
+Class 11 | Tue 09-29 | Comparing Groups, 1
 \-  | Wed 09-30 | **[Minute Paper after Class 11](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 
 ## October 2020
 
 LINK | Date | Description
 --------: | --------: | :-------------------------------------------------------
-Class 12 | Thu 10-01 | Topics to be announced
+Class 12 | Thu 10-01 | Comparing Groups, 2
 \- | Fri 10-02 | **[Project A proposal](https://thomaselove.github.io/431-2020-projectA/)** due at noon, *Quiz 1 will be available*, Finish *Leek*.
 Class 13 | Tue 10-06 | Topics to be announced
 \- | Wed 10-07 | **Quiz 1 due** at Noon (material from Classes 01-12)
@@ -138,7 +138,7 @@ The Zoom information for TA office hours is posted in the [Announcements section
 
 Day | Morning | Mid-Day | Evening
 ---: | ------- | ------ | -------
-Mondays | 10:30 AM to Noon | - | 7:00 to 8:30 PM
+Mondays | 10:30 AM to Noon | 3:00 to 4:30 PM | 7:00 to 8:30 PM
 Tuesdays | - | 2:30 to 4:00 PM | -
 Wednesdays | 9:30 to 11:00 AM | - | 6:30 to 8:00 PM
 Thursdays | 10:30 AM to Noon | - | 8:30 to 10:00 PM
