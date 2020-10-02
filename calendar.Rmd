@@ -62,31 +62,30 @@ LINK | Date | Description
 [Class 10](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class10) | Thu 09-24 | Linear Regression Models, Making Inferences, Using Factors
 \-  | Fri 09-25 | *Spiegelhalter* Chapters 8-9, *Leek* sections 13-14
 \- | Mon 09-28 | **[Lab 4 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-[Class 11](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class11) | Tue 09-29 | Comparing Groups, 1
+[Class 11](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class11) | Tue 09-29 | Multiple Linear Regression, Categorical Predictors
 \-  | Wed 09-30 | **[Minute Paper after Class 11](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 
 ## October 2020
 
 LINK | Date | Description
 --------: | --------: | :-------------------------------------------------------
-[Class 12](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class12) | Thu 10-01 | Comparing Groups, 2
-\- | Fri 10-02 | **[Project A proposal](https://thomaselove.github.io/431-2020-projectA/)** due at noon, *Quiz 1 will be available*, Finish *Leek*.
-Class 13 | Tue 10-06 | Topics to be announced
-\- | Wed 10-07 | **Quiz 1 due** at Noon (material from Classes 01-12)
-Class 14 | Thu 10-08 | Topics to be announced
+[Class 12](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class12) | Thu 10-01 | Multiple Linear Regression, Holdout Sample, Box-Cox and Tukey's Ladder
+\- | Fri 10-02 | **[Project A proposal](https://thomaselove.github.io/431-2020-projectA/)** due at noon, *[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) will be available*, Finish *Leek*.
+[Class 13](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class13) | Tue 10-06 | Comparing Groups, 1: Statistical Significance, P values
+\- | Wed 10-07 | **[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) due** at Noon (material from Classes 01-12)
+[Class 14](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class14) | Thu 10-08 | Comparing Groups, 2
 \- | Fri 10-09 | *Spiegelhalter* Chapters 5-6
-Class 15 | Tue 10-13 | Topics to be announced
+[Class 15](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class15) | Tue 10-13 | Comparing Groups, 3
 \-  | Wed 10-14 | **[Minute Paper after Class 15](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 \- | Thu 10-15 | **No 431 Class**. Dr. Love will be at Study Section.
 \- | Tue 10-20 | **[Project A due](https://thomaselove.github.io/431-2020-projectA/)** at Noon (uses Classes 01-12)
-Class 16 | Tue 10-20 | Topics to be announced
-Class 17 | Thu 10-22 | Topics to be announced
+Class 16 | Tue 10-20 | Comparing Groups, 4: It's Just a Linear Model
+Class 17 | Thu 10-22 | Comparing Groups, 5: Power and Sample Size Concerns
 \- | Fri 10-23 | *Spiegelhalter* Chapter 10 
 \- | Mon 10-26 | **[Lab 5 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 18 | Tue 10-27 | Topics to be announced
+Class 18 | Tue 10-27 | Comparing Groups, 6: Using `retrodesign`
 \-  | Wed 10-28 | **[Minute Paper after Class 18](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 19 | Thu 10-29 | Topics to be announced
-\- | Fri 10-30 | By now, you should have finished *Leek*
+Class 19 | Thu 10-29 | Catch-Up (as needed)
 
 ## November 2020
 
@@ -94,17 +93,17 @@ LINK | Date | Description
 --------: | -----: | :---------------------------------------------------------
 \-  | Tue 11-03 | **No 431 Class AND No TA Office Hours**. US Election Day
 \- | Wed 11-04 | *TA office hours resume*
-Class 20 | Thu 11-05 | Topics to be announced
+Class 20 | Thu 11-05 | Residuals and Transformation in Regression
 \- | Fri 11-08 | *Spiegelhalter* Chapter 11
 \- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 21 | Tue 11-10 | Topics to be announced
+Class 21 | Tue 11-10 | Regression: Topics to be announced
 \-  | Wed 11-11 | **[Minute Paper after Class 21](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 22 | Thu 11-12 | Topics to be announced
+Class 22 | Thu 11-12 | Regression: Topics to be announced
 \- | Fri 11-15 | *Spiegelhalter* Chapter 12
 \- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 23 | Tue 11-17 | Topics to be announced
+Class 23 | Tue 11-17 | Regression: Topics to be announced
 \-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 24 | Thu 11-19 | Topics to be announced
+Class 24 | Thu 11-19 | Regression: Topics to be announced
 \- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
 \- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
 \- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
