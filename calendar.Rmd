@@ -140,7 +140,9 @@ Day | Morning | Mid-Day | Evening
 Mondays | 10:30 AM to Noon | 3:00 to 4:30 PM | 7:00 to 8:30 PM
 Tuesdays | - | 2:30 to 4:00 PM | -
 Wednesdays | 9:30 to 11:00 AM | - | 6:30 to 8:00 PM
-Thursdays | 10:30 AM to Noon | - | 8:30 to 10:00 PM
+Thursdays | - | - | 8:30 to 10:00 PM
 Fridays | 9:00 to 10:30 AM | 11:30 AM to 1:00 PM | 3:30 to 5:00 PM
 Saturdays | 10:30 to 11:30 AM | - | -
 Sundays | 10:30 to 11:30 AM | - | 6:30 to 8:00 PM
+
+Note that we've canceled Thursday morning office hours effective 2020-10-08.
