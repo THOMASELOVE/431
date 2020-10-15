@@ -28,6 +28,91 @@ In addition, we also **strongly** encourage you to read [R for Data Science](htt
 - We suggest reading things that interest you from the Explore section (chapters 1-8) and the Communicate section (chapters 26-28, in particular) before Project A.
 - We suggest adding in some of the Wrangle section (particularly chapters 9-12, 15 and 16) and the rest of the Communicate section before Project B.
 
+## October 2020
+
+LINK | Date | Description
+--------: | --------: | :-------------------------------------------------------
+[Class 12](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class12) | Thu 10-01 | Multiple Linear Regression, Holdout Sample, Box-Cox and Tukey's Ladder
+\- | Fri 10-02 | **[Project A proposal](https://thomaselove.github.io/431-2020-projectA/)** due at noon, *[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) will be available*, Finish *Leek*.
+[Class 13](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class13) | Tue 10-06 | Comparing Groups, 1: Statistical Significance, P values
+\- | Wed 10-07 | **[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) due** at Noon (material from Classes 01-12)
+[Class 14](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class14) | Thu 10-08 | Comparing Groups, 2
+\- | Fri 10-09 | *Spiegelhalter* Chapters 5-6
+[Class 15](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class15) | Tue 10-13 | Comparing Groups, 3
+\-  | Wed 10-14 | **[Minute Paper after Class 15](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+\- | Thu 10-15 | **No 431 Class**. Dr. Love will be at AHRQ Study Section.
+[Class 16](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class16) | Tue 10-20 | Comparing Means using Independent Samples (t, bootstrap, rank sum)
+[Class 17](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class17) | Thu 10-22 | One-Factor Analysis of Variance, plus Multiple Comparisons
+\- | Fri 10-23 | *Spiegelhalter* Chapter 10 
+\- | Mon 10-26 | **[Lab 5 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
+[Class 18](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class18) | Tue 10-27 | Comparing Means with Paired Samples
+\-  | Wed 10-28 | **[Minute Paper after Class 18](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+[Class 19](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class19) | Thu 10-29 | Comparing Rates/Percentages/Proportions
+\- | Fri 10-30 | **[Project A due](https://thomaselove.github.io/431-2020-projectA/)** at 5 PM (note change of date)
+
+## November 2020
+
+LINK | Date | Description
+--------: | -------: | :---------------------------------------------------------
+\- | Sun 11-01 | Project B instructions made available.
+\- | Tue 11-03 | **No 431 Class AND No TA Office Hours**. US Election Day
+\- | Wed 11-04 | *TA office hours resume*
+Class 20 | Thu 11-05 | Power and Sample Size Considerations
+\- | Fri 11-06 | *Spiegelhalter* Chapter 11
+\- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
+Class 21 | Tue 11-10 | Using `retrodesign` to amplify a completed study
+\-  | Wed 11-11 | **[Minute Paper after Class 21](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+Class 22 | Thu 11-12 | Box-Cox, Residual Plots and Transformation in Regression
+\- | Fri 11-13 | *Spiegelhalter* Chapter 12
+\- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
+Class 23 | Tue 11-17 | Cross-Validation in Prediction Models
+\-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+Class 24 | Thu 11-19 | Stepwise & Best Subsets Variable Selection 
+\- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
+\- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
+\- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
+\- | Sat 11-28 | *TA office hours begin again*
+\- | Sun 11-29 | *Spiegelhalter* Chapters 13-14
+\- | Mon 11-30 | **[Lab 8 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
+
+## December 2020
+
+LINK | Date | Description
+--------: | -----: | :---------------------------------------------------------
+Class 25 | Tue 12-01 | Case Study, session 1
+\-  | Wed 12-02 | **[Minute Paper after Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+Class 26 | Thu 12-03 | Case Study, session 2
+\- | Fri 12-04 | *Quiz 2 will be made available*
+\- | Mon 12-07 | *Final Day of TA office hours* for the semester
+\- | Tue 12-08 | **Quiz 2 due** at Noon (material from Classes 01-24)
+\- | Thu 12-10 | **Project B due** at Noon (uses Classes 01-24)
+\- | Thu 12-10 | [Lab Regrade Request Form](http://bit.ly/431-2020-lab-regrade-requests) due at Noon (optional)
+
+## End of Semester
+
+- End-of-semester Project Presentations will be scheduled before the Thanksgiving break and then held in December. 
+- The end of the University Final Exam period is 2020-12-16.
+
+## TA Office Hours
+
+TA office hours begin on 2020-08-31. They will be held every day until 2020-12-07 with the exceptions of 2020-11-03 (Election Day) and the Thanksgiving Break (2020-11-21 through 2020-11-27).
+
+The Zoom information for TA office hours is posted in the [Announcements section on Canvas](https://canvas.case.edu). Here's the schedule...
+
+Day | Morning | Mid-Day | Evening
+---: | ------- | ------ | -------
+Mondays | 10:30 AM to Noon | 3:00 to 4:30 PM | 7:00 to 8:30 PM
+Tuesdays | - | 2:30 to 4:00 PM | -
+Wednesdays | 9:30 to 11:00 AM | - | 6:30 to 8:00 PM
+Thursdays | - | - | 8:30 to 10:00 PM
+Fridays | 9:00 to 10:30 AM | 11:30 AM to 1:00 PM | 3:30 to 5:00 PM
+Saturdays | 10:30 to 11:30 AM | - | -
+Sundays | 10:30 to 11:30 AM | - | 6:30 to 8:00 PM
+
+Note that we've canceled Thursday morning office hours effective 2020-10-08.
+
+## Completed Materials
+
 ## August 2020
 
 LINK | Date | Description
@@ -64,86 +149,3 @@ LINK | Date | Description
 \- | Mon 09-28 | **[Lab 4 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 [Class 11](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class11) | Tue 09-29 | Multiple Linear Regression, Categorical Predictors
 \-  | Wed 09-30 | **[Minute Paper after Class 11](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-
-## October 2020
-
-LINK | Date | Description
---------: | --------: | :-------------------------------------------------------
-[Class 12](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class12) | Thu 10-01 | Multiple Linear Regression, Holdout Sample, Box-Cox and Tukey's Ladder
-\- | Fri 10-02 | **[Project A proposal](https://thomaselove.github.io/431-2020-projectA/)** due at noon, *[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) will be available*, Finish *Leek*.
-[Class 13](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class13) | Tue 10-06 | Comparing Groups, 1: Statistical Significance, P values
-\- | Wed 10-07 | **[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) due** at Noon (material from Classes 01-12)
-[Class 14](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class14) | Thu 10-08 | Comparing Groups, 2
-\- | Fri 10-09 | *Spiegelhalter* Chapters 5-6
-[Class 15](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class15) | Tue 10-13 | Comparing Groups, 3
-\-  | Wed 10-14 | **[Minute Paper after Class 15](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-\- | Thu 10-15 | **No 431 Class**. Dr. Love will be at Study Section.
-Class 16 | Tue 10-20 | Comparing Groups, 4: It's Just a Linear Model
-Class 17 | Thu 10-22 | Comparing Groups, 5: Power and Sample Size Concerns
-\- | Fri 10-23 | *Spiegelhalter* Chapter 10 
-\- | Mon 10-26 | **[Lab 5 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 18 | Tue 10-27 | Comparing Groups, 6: Using `retrodesign`
-\-  | Wed 10-28 | **[Minute Paper after Class 18](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 19 | Thu 10-29 | Catch-Up (as needed)
-\- | Fri 10-30 | **[Project A due](https://thomaselove.github.io/431-2020-projectA/)** at 5 PM (note change of date)
-
-## November 2020
-
-LINK | Date | Description
---------: | -----: | :---------------------------------------------------------
-\- | Sun 11-01 | Project B instructions made available.
-\- | Tue 11-03 | **No 431 Class AND No TA Office Hours**. US Election Day
-\- | Wed 11-04 | *TA office hours resume*
-Class 20 | Thu 11-05 | Residuals and Transformation in Regression
-\- | Fri 11-06 | *Spiegelhalter* Chapter 11
-\- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 21 | Tue 11-10 | Regression: Topics to be announced
-\-  | Wed 11-11 | **[Minute Paper after Class 21](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 22 | Thu 11-12 | Regression: Topics to be announced
-\- | Fri 11-13 | *Spiegelhalter* Chapter 12
-\- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 23 | Tue 11-17 | Regression: Topics to be announced
-\-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 24 | Thu 11-19 | Regression: Topics to be announced
-\- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
-\- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
-\- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
-\- | Sat 11-28 | *TA office hours begin again*
-\- | Sun 11-29 | *Spiegelhalter* Chapters 13-14
-\- | Mon 11-30 | **[Lab 8 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-
-## December 2020
-
-LINK | Date | Description
---------: | -----: | :---------------------------------------------------------
-Class 25 | Tue 12-01 | Topics to be announced
-\-  | Wed 12-02 | **[Minute Paper after Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 26 | Thu 12-03 | Topics to be announced
-\- | Fri 12-04 | *Quiz 2 will be made available*
-\- | Mon 12-07 | *Final Day of TA office hours* for the semester
-\- | Tue 12-08 | **Quiz 2 due** at Noon (material from Classes 01-24)
-\- | Thu 12-10 | **Project B due** at Noon (uses Classes 01-24)
-\- | Thu 12-10 | [Lab Regrade Request Form](http://bit.ly/431-2020-lab-regrade-requests) due at Noon (optional)
-
-## End of Semester
-
-- Project Presentations will be scheduled later in the semester. 
-- The end of the University Final Exam period is 2020-12-16.
-
-## TA Office Hours
-
-TA office hours begin on 2020-08-31. They will be held every day until 2020-12-07 with the exceptions of 2020-11-03 (Election Day) and the Thanksgiving Break (2020-11-21 through 2020-11-27).
-
-The Zoom information for TA office hours is posted in the [Announcements section on Canvas](https://canvas.case.edu). Here's the schedule...
-
-Day | Morning | Mid-Day | Evening
----: | ------- | ------ | -------
-Mondays | 10:30 AM to Noon | 3:00 to 4:30 PM | 7:00 to 8:30 PM
-Tuesdays | - | 2:30 to 4:00 PM | -
-Wednesdays | 9:30 to 11:00 AM | - | 6:30 to 8:00 PM
-Thursdays | - | - | 8:30 to 10:00 PM
-Fridays | 9:00 to 10:30 AM | 11:30 AM to 1:00 PM | 3:30 to 5:00 PM
-Saturdays | 10:30 to 11:30 AM | - | -
-Sundays | 10:30 to 11:30 AM | - | 6:30 to 8:00 PM
-
-Note that we've canceled Thursday morning office hours effective 2020-10-08.
