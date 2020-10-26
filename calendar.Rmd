@@ -54,9 +54,9 @@ LINK | Date | Description
 
 LINK | Date | Description
 --------: | -------: | :---------------------------------------------------------
-\- | Sun 11-01 | Project B instructions made available.
-\- | Tue 11-03 | **No 431 Class AND No TA Office Hours**. US Election Day
+\- | Tue 11-03 | **431 Class and Office Hours cancelled**. US Election Day
 \- | Wed 11-04 | *TA office hours resume*
+\- | Thu 11-05 | Project B instructions made available.
 Class 20 | Thu 11-05 | Power and Sample Size Considerations
 \- | Fri 11-06 | *Spiegelhalter* Chapter 11
 \- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
@@ -65,7 +65,7 @@ Class 21 | Tue 11-10 | Using `retrodesign` to amplify a completed study
 Class 22 | Thu 11-12 | Box-Cox, Residual Plots and Transformation in Regression
 \- | Fri 11-13 | *Spiegelhalter* Chapter 12
 \- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 23 | Tue 11-17 | Cross-Validation in Prediction Models
+Class 23 | Tue 11-17 | Cross-Validation in Prediction Models (MAPE, MSPE, etc.)
 \-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 24 | Thu 11-19 | Stepwise & Best Subsets Variable Selection 
 \- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
