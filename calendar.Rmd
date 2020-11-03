@@ -28,39 +28,17 @@ In addition, we also **strongly** encourage you to read [R for Data Science](htt
 - We suggest reading things that interest you from the Explore section (chapters 1-8) and the Communicate section (chapters 26-28, in particular) before Project A.
 - We suggest adding in some of the Wrangle section (particularly chapters 9-12, 15 and 16) and the rest of the Communicate section before Project B.
 
-## October 2020
-
-LINK | Date | Description
---------: | --------: | :-------------------------------------------------------
-[Class 12](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class12) | Thu 10-01 | Multiple Linear Regression, Holdout Sample, Box-Cox and Tukey's Ladder
-\- | Fri 10-02 | **[Project A proposal](https://thomaselove.github.io/431-2020-projectA/)** due at noon, *[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) will be available*, Finish *Leek*.
-[Class 13](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class13) | Tue 10-06 | Comparing Groups, 1: Statistical Significance, P values
-\- | Wed 10-07 | **[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) due** at Noon (material from Classes 01-12)
-[Class 14](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class14) | Thu 10-08 | Comparing Groups, 2
-\- | Fri 10-09 | *Spiegelhalter* Chapters 5-6
-[Class 15](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class15) | Tue 10-13 | Comparing Groups, 3
-\-  | Wed 10-14 | **[Minute Paper after Class 15](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-\- | Thu 10-15 | **No 431 Class**. Dr. Love will be at AHRQ Study Section.
-[Class 16](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class16) | Tue 10-20 | Comparing Means using Independent Samples (t, bootstrap, rank sum)
-[Class 17](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class17) | Thu 10-22 | One-Factor Analysis of Variance, plus Multiple Comparisons
-\- | Fri 10-23 | *Spiegelhalter* Chapter 10 
-\- | Mon 10-26 | **[Lab 5 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-[Class 18](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class18) | Tue 10-27 | Comparing Means with Paired Samples
-\-  | Wed 10-28 | **[Minute Paper after Class 18](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-[Class 19](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class19) | Thu 10-29 | Comparing Rates/Percentages/Proportions
-\- | Fri 10-30 | **[Project A due](https://thomaselove.github.io/431-2020-projectA/)** at 5 PM (note change of date)
-
 ## November 2020
 
 LINK | Date | Description
 --------: | -------: | :---------------------------------------------------------
-\- | Tue 11-03 | **431 Class and Office Hours cancelled**. US Election Day
+\- | Tue 11-03 | **No 431 Class or Office Hours**. US Election Day
 \- | Wed 11-04 | *TA office hours resume*
 \- | Thu 11-05 | Project B instructions made available.
-Class 20 | Thu 11-05 | Power and Sample Size Considerations
+Class 20 | Thu 11-05 | Comparing Proportions, Chi-Square Tests in Two-Way Tables
 \- | Fri 11-06 | *Spiegelhalter* Chapter 11
 \- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 21 | Tue 11-10 | Using `retrodesign` to amplify a completed study
+Class 21 | Tue 11-10 | Power and Sample Size Considerations, Mantel-Haenszel
 \-  | Wed 11-11 | **[Minute Paper after Class 21](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 22 | Thu 11-12 | Box-Cox, Residual Plots and Transformation in Regression
 \- | Fri 11-13 | *Spiegelhalter* Chapter 12
@@ -149,3 +127,25 @@ LINK | Date | Description
 \- | Mon 09-28 | **[Lab 4 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 [Class 11](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class11) | Tue 09-29 | Multiple Linear Regression, Categorical Predictors
 \-  | Wed 09-30 | **[Minute Paper after Class 11](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+
+## October 2020
+
+LINK | Date | Description
+--------: | --------: | :-------------------------------------------------------
+[Class 12](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class12) | Thu 10-01 | Multiple Linear Regression, Holdout Sample, Box-Cox and Tukey's Ladder
+\- | Fri 10-02 | **[Project A proposal](https://thomaselove.github.io/431-2020-projectA/)** due at noon, *[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) will be available*, Finish *Leek*.
+[Class 13](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class13) | Tue 10-06 | Comparing Groups, 1: Statistical Significance, P values
+\- | Wed 10-07 | **[Quiz 1](https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/quiz1/quiz1.md) due** at Noon (material from Classes 01-12)
+[Class 14](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class14) | Thu 10-08 | Comparing Groups, 2
+\- | Fri 10-09 | *Spiegelhalter* Chapters 5-6
+[Class 15](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class15) | Tue 10-13 | Comparing Groups, 3
+\-  | Wed 10-14 | **[Minute Paper after Class 15](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+\- | Thu 10-15 | **No 431 Class**. Dr. Love will be at AHRQ Study Section.
+[Class 16](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class16) | Tue 10-20 | Comparing Means using Independent Samples (t, bootstrap, rank sum)
+[Class 17](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class17) | Thu 10-22 | One-Factor Analysis of Variance, plus Multiple Comparisons
+\- | Fri 10-23 | *Spiegelhalter* Chapter 10 
+\- | Mon 10-26 | **[Lab 5 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
+[Class 18](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class18) | Tue 10-27 | Comparing Means with Paired Samples
+\-  | Wed 10-28 | **[Minute Paper after Class 18](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+[Class 19](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class19) | Thu 10-29 | Comparing Rates/Percentages/Proportions
+\- | Fri 10-30 | **[Project A due](https://thomaselove.github.io/431-2020-projectA/)** at 5 PM (note change of date)
