@@ -35,10 +35,10 @@ LINK | Date | Description
 \- | Tue 11-03 | **No 431 Class or Office Hours**. US Election Day
 \- | Wed 11-04 | *TA office hours resume*
 \- | Thu 11-05 | Project B instructions made available.
-Class 20 | Thu 11-05 | Comparing Proportions, Chi-Square Tests in Two-Way Tables
+[Class 20](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class20) | Thu 11-05 | Comparing Proportions, Two-Way and Three-Way Tables
 \- | Fri 11-06 | *Spiegelhalter* Chapter 11
 \- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 21 | Tue 11-10 | Power and Sample Size Considerations, Mantel-Haenszel
+Class 21 | Tue 11-10 | Power and Sample Size Considerations
 \-  | Wed 11-11 | **[Minute Paper after Class 21](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 22 | Thu 11-12 | Box-Cox, Residual Plots and Transformation in Regression
 \- | Fri 11-13 | *Spiegelhalter* Chapter 12
