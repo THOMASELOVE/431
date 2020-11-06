@@ -34,18 +34,18 @@ LINK | Date | Description
 --------: | -------: | :---------------------------------------------------------
 \- | Tue 11-03 | **No 431 Class or Office Hours**. US Election Day
 \- | Wed 11-04 | *TA office hours resume*
-\- | Thu 11-05 | Project B instructions made available.
 [Class 20](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class20) | Thu 11-05 | Comparing Proportions, Two-Way and Three-Way Tables
 \- | Fri 11-06 | *Spiegelhalter* Chapter 11
+\- | Sat 11-07 | Project B instructions made available.
 \- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 21 | Tue 11-10 | Power and Sample Size Considerations
+[Class 21](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21) | Tue 11-10 | Power and Sample Size Considerations
 \-  | Wed 11-11 | **[Minute Paper after Class 21](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 22 | Thu 11-12 | Box-Cox, Residual Plots and Transformation in Regression
+[Class 22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class22) | Thu 11-12 | Box-Cox, Residual Plots and Transformation in Regression
 \- | Fri 11-13 | *Spiegelhalter* Chapter 12
 \- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-Class 23 | Tue 11-17 | Cross-Validation in Prediction Models (MAPE, MSPE, etc.)
+[Class 23](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class23) | Tue 11-17 | Cross-Validation in Prediction Models (MAPE, MSPE, etc.)
 \-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 24 | Thu 11-19 | Stepwise & Best Subsets Variable Selection 
+[Class 24](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24) | Thu 11-19 | Stepwise & Best Subsets Variable Selection 
 \- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
 \- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
 \- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
