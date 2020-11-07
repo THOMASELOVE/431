@@ -20,8 +20,10 @@ navbar:
         href: https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md
       - text: Quizzes
         href: https://github.com/THOMASELOVE/431-2020/blob/master/quizzes/README.md
-      - text: Projects
-        href: https://github.com/THOMASELOVE/431-2020/blob/master/projects/README.md
+      - text: Project A
+        href: https://thomaselove.github.io/431-2020-projectA
+      - text: Project B
+        href: https://thomaselove.github.io/431-2020-projectB
     - text: R and Data
       menu:
         - text: Installing R

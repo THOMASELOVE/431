@@ -36,16 +36,17 @@ LINK | Date | Description
 \- | Wed 11-04 | *TA office hours resume*
 [Class 20](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class20) | Thu 11-05 | Comparing Proportions, Two-Way and Three-Way Tables
 \- | Fri 11-06 | *Spiegelhalter* Chapter 11
-\- | Sat 11-07 | Project B instructions made available.
+\- | Sat 11-07 | [Project B instructions](https://thomaselove.github.io/431-2020-projectB/) are now available.
 \- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 [Class 21](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21) | Tue 11-10 | Power and Sample Size Considerations
-\-  | Wed 11-11 | **[Minute Paper after Class 21](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+\-  | Wed 11-11 | **[Project B Class Survey](http://bit.ly/431-projectB-survey)** due at 11 PM.
 [Class 22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class22) | Thu 11-12 | Box-Cox, Residual Plots and Transformation in Regression
 \- | Fri 11-13 | *Spiegelhalter* Chapter 12
 \- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 [Class 23](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class23) | Tue 11-17 | Cross-Validation in Prediction Models (MAPE, MSPE, etc.)
 \-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-[Class 24](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24) | Thu 11-19 | Stepwise & Best Subsets Variable Selection 
+\- | Thu 11-19 | **[Project B Study 2 Data Plan](http://bit.ly/431-projectB-data-plan)** due at Noon
+[Class 24](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24) | Thu 11-19 | Stepwise & Best Subsets Variable Selection
 \- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
 \- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
 \- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
@@ -63,7 +64,7 @@ Class 26 | Thu 12-03 | Case Study, session 2
 \- | Fri 12-04 | *Quiz 2 will be made available*
 \- | Mon 12-07 | *Final Day of TA office hours* for the semester
 \- | Tue 12-08 | **Quiz 2 due** at Noon (material from Classes 01-24)
-\- | Thu 12-10 | **Project B due** at Noon (uses Classes 01-24)
+\- | Thu 12-10 | **[Project B](https://thomaselove.github.io/431-2020-projectB)** due at Noon (uses Classes 01-24)
 \- | Thu 12-10 | [Lab Regrade Request Form](http://bit.ly/431-2020-lab-regrade-requests) due at Noon (optional)
 
 ## End of Semester
