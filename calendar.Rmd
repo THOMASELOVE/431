@@ -58,18 +58,19 @@ LINK | Date | Description
 
 LINK | Date | Description
 --------: | -----: | :---------------------------------------------------------
-Class 25 | Tue 12-01 | Case Study, session 1
+Class 25 | Tue 12-01 | Case Study, session 1, Details for Project B oral presentations
 \-  | Wed 12-02 | **[Minute Paper after Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 Class 26 | Thu 12-03 | Case Study, session 2
 \- | Fri 12-04 | *Quiz 2 will be made available*
 \- | Mon 12-07 | *Final Day of TA office hours* for the semester
-\- | Tue 12-08 | **Quiz 2 due** at Noon (material from Classes 01-24)
 \- | Thu 12-10 | **[Project B](https://thomaselove.github.io/431-2020-projectB)** due at Noon (uses Classes 01-24)
 \- | Thu 12-10 | [Lab Regrade Request Form](http://bit.ly/431-2020-lab-regrade-requests) due at Noon (optional)
+\- | Fri 12-11 | **Quiz 2 due** at Noon (material from Classes 01-24)
 
 ## End of Semester
 
-- End-of-semester Project Presentations will be scheduled before the Thanksgiving break and then held in December. 
+- Most Project B groups will give their oral presentation through a video recording.
+- About 12 groups (which groups will be announced on 2020-12-01) will have Zoom meetings with Dr. Love to present their Project B on 2020-12-09, 12-10 or 12-11.
 - The end of the University Final Exam period is 2020-12-16.
 
 ## TA Office Hours
