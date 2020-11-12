@@ -40,13 +40,13 @@ LINK | Date | Description
 \- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 [Class 21](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21) | Tue 11-10 | Power and Sample Size Considerations
 \-  | Wed 11-11 | **[Project B Class Survey](http://bit.ly/431-projectB-survey)** due at 11 PM.
-[Class 22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class22) | Thu 11-12 | Box-Cox, Residual Plots and Transformation in Regression
+[Class 22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class22) | Thu 11-12 | Box-Cox, Transformation in Regression
 \- | Fri 11-13 | *Spiegelhalter* Chapter 12
 \- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-[Class 23](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class23) | Tue 11-17 | Cross-Validation in Prediction Models (MAPE, MSPE, etc.)
+[Class 23](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class23) | Tue 11-17 | Stepwise Regression, Residual Plots in Regression
 \-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 \- | Thu 11-19 | **[Project B Study 2 Data Plan](http://bit.ly/431-projectB-data-plan)** due at Noon
-[Class 24](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24) | Thu 11-19 | Stepwise & Best Subsets Variable Selection
+[Class 24](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24) | Thu 11-19 | Cross-Validation in Prediction Models (MAPE, RMSPE, etc.)
 \- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
 \- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
 \- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
