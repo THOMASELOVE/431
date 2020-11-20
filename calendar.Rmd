@@ -51,16 +51,16 @@ LINK | Date | Description
 \- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
 \- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
 \- | Sat 11-28 | *TA office hours begin again*
-\- | Sun 11-29 | *Spiegelhalter* Chapters 13-14
+\- | Sun 11-29 | *Spiegelhalter* complete the book
 \- | Mon 11-30 | **[Lab 8 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
 
 ## December 2020
 
 LINK | Date | Description
 --------: | -----: | :---------------------------------------------------------
-Class 25 | Tue 12-01 | Case Study, session 1, Details for Project B oral presentations
+[Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25) | Tue 12-01 | Details for Project B oral presentations, and more
 \-  | Wed 12-02 | **[Minute Paper after Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-Class 26 | Thu 12-03 | Case Study, session 2
+[Class 26](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26) | Thu 12-03 | Last 431 Class
 \- | Fri 12-04 | *Quiz 2 will be made available*
 \- | Mon 12-07 | *Final Day of TA office hours* for the semester
 \- | Thu 12-10 | **[Project B](https://thomaselove.github.io/431-2020-projectB)** due at Noon (uses Classes 01-24)
