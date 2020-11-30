@@ -28,39 +28,13 @@ In addition, we also **strongly** encourage you to read [R for Data Science](htt
 - We suggest reading things that interest you from the Explore section (chapters 1-8) and the Communicate section (chapters 26-28, in particular) before Project A.
 - We suggest adding in some of the Wrangle section (particularly chapters 9-12, 15 and 16) and the rest of the Communicate section before Project B.
 
-## November 2020
-
-LINK | Date | Description
---------: | -------: | :---------------------------------------------------------
-\- | Tue 11-03 | **No 431 Class or Office Hours**. US Election Day
-\- | Wed 11-04 | *TA office hours resume*
-[Class 20](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class20) | Thu 11-05 | Comparing Proportions, Two-Way and Three-Way Tables
-\- | Fri 11-06 | *Spiegelhalter* Chapter 11
-\- | Sat 11-07 | [Project B instructions](https://thomaselove.github.io/431-2020-projectB/) are now available.
-\- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-[Class 21](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21) | Tue 11-10 | Power and Sample Size Considerations
-\-  | Wed 11-11 | **[Project B Class Survey](http://bit.ly/431-projectB-survey)** due at 11 PM.
-[Class 22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class22) | Thu 11-12 | Box-Cox, Transformation in Regression
-\- | Fri 11-13 | *Spiegelhalter* Chapter 12
-\- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-[Class 23](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class23) | Tue 11-17 | Stepwise Regression, Residual Plots in Regression
-\-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-\- | Thu 11-19 | **[Project B Study 2 Data Plan](http://bit.ly/431-projectB-data-plan)** due at Noon
-[Class 24](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24) | Thu 11-19 | Cross-Validation in Prediction Models (MAPE, RMSPE, etc.)
-\- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
-\- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
-\- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
-\- | Sat 11-28 | *TA office hours begin again*
-\- | Sun 11-29 | *Spiegelhalter* complete the book
-\- | Mon 11-30 | **[Lab 8 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
-
 ## December 2020
 
 LINK | Date | Description
---------: | -----: | :---------------------------------------------------------
-[Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25) | Tue 12-01 | Details for Project B oral presentations, and more
+--------: | -------: | :-------------------------------------------------------
+[Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class25) | Tue 12-01 | Announcements, More on Regression
 \-  | Wed 12-02 | **[Minute Paper after Class 25](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
-[Class 26](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26) | Thu 12-03 | Last 431 Class
+[Class 26](https://github.com/THOMASELOVE/431-2020/blob/master/classes/class26) | Thu 12-03 | Visualizations, Loose Ends, What's in 432?
 \- | Fri 12-04 | *Quiz 2 will be made available*
 \- | Mon 12-07 | *Final Day of TA office hours* for the semester
 \- | Thu 12-10 | **[Project B](https://thomaselove.github.io/431-2020-projectB)** due at Noon (uses Classes 01-24)
@@ -70,12 +44,12 @@ LINK | Date | Description
 ## End of Semester
 
 - Most Project B groups will give their oral presentation through a video recording.
-- About 12 groups (which groups will be announced on 2020-12-01) will have Zoom meetings with Dr. Love to present their Project B on 2020-12-09, 12-10 or 12-11.
+- The remaining Project B groups will have Zoom meetings with Dr. Love to present their work on 2020-12-09, 2020-12-10 or 2020-12-11.
 - The end of the University Final Exam period is 2020-12-16.
 
 ## TA Office Hours
 
-TA office hours begin on 2020-08-31. They will be held every day until 2020-12-07 with the exceptions of 2020-11-03 (Election Day) and the Thanksgiving Break (2020-11-21 through 2020-11-27).
+TA office hours begin on 2020-08-31. They will be held every day through 2020-12-07 with the exceptions of 2020-11-03 (Election Day) and the Thanksgiving Break (2020-11-21 through 2020-11-27).
 
 The Zoom information for TA office hours is posted in the [Announcements section on Canvas](https://canvas.case.edu). Here's the schedule...
 
@@ -151,3 +125,29 @@ LINK | Date | Description
 \-  | Wed 10-28 | **[Minute Paper after Class 18](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
 [Class 19](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class19) | Thu 10-29 | Comparing Rates/Percentages/Proportions
 \- | Fri 10-30 | **[Project A due](https://thomaselove.github.io/431-2020-projectA/)** at 5 PM (note change of date)
+
+## November 2020
+
+LINK | Date | Description
+--------: | -------: | :---------------------------------------------------------
+\- | Tue 11-03 | **No 431 Class or Office Hours**. US Election Day
+\- | Wed 11-04 | *TA office hours resume*
+[Class 20](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class20) | Thu 11-05 | Comparing Proportions, Two-Way and Three-Way Tables
+\- | Fri 11-06 | *Spiegelhalter* Chapter 11
+\- | Sat 11-07 | [Project B instructions](https://thomaselove.github.io/431-2020-projectB/) are now available.
+\- | Mon 11-09 | **[Lab 6 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
+[Class 21](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class21) | Tue 11-10 | Power and Sample Size Considerations
+\-  | Wed 11-11 | **[Project B Class Survey](http://bit.ly/431-projectB-survey)** due at 11 PM.
+[Class 22](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class22) | Thu 11-12 | Box-Cox, Transformation in Regression
+\- | Fri 11-13 | *Spiegelhalter* Chapter 12
+\- | Mon 11-16 | **[Lab 7 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
+[Class 23](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class23) | Tue 11-17 | Stepwise Regression, Residual Plots in Regression
+\-  | Wed 11-18 | **[Minute Paper after Class 23](https://github.com/THOMASELOVE/431-2020/blob/master/minutepapers/README.md)** due at Noon 
+\- | Thu 11-19 | **[Project B Study 2 Data Plan](http://bit.ly/431-projectB-data-plan)** due at Noon
+[Class 24](https://github.com/THOMASELOVE/431-2020/tree/master/classes/class24) | Thu 11-19 | Cross-Validation in Prediction Models (MAPE, RMSPE, etc.)
+\- | Fri 11-20 | *Last day of TA office hours until 2020-11-28*
+\- | Tue 11-24 | **CWRU Holiday** (Thanksgiving Week)
+\- | Thu 11-26 | **CWRU Holiday** (Thanksgiving Week)
+\- | Sat 11-28 | *TA office hours begin again*
+\- | Sun 11-29 | *Spiegelhalter* complete the book
+\- | Mon 11-30 | **[Lab 8 due](https://github.com/THOMASELOVE/431-2020/blob/master/labs/README.md)** at 9 PM 
